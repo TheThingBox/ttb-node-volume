@@ -1,0 +1,13 @@
+{
+  "name": "ttb-node-volume",
+  "version": "1.0.0",
+  "homepage": "http://thethingbox.io/",
+  "node-red": {
+    "nodes": {
+      "volume": "volume.js"
+    }
+  },
+  "dependencies": {
+    "loudness": "0.2.2"
+  }
+}
